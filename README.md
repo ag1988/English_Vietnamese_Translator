@@ -10,7 +10,7 @@ eng-vietnamese.html : HTML version of the Jupyter Notebook for easily viewing th
 
 Sample Translations : 
 
-Hello, my name is John. chào chào , John là tôi .
+Hello, my name is John. chào chào , John là tôi .\\
 I am going home . Tôi sẽ mua một nhà .
 Yes , I am coming . Vâng , tôi đã bị mất . 
 Will you be joining us for dinner ? Bạn có thể cho chúng ta ? 
