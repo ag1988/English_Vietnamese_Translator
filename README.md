@@ -6,8 +6,6 @@ Description: A recurrent neural net (RNN) based Neural Machine Translator for tr
 
 eng-vietnamese.ipynb : The python code in form of a Jupyter Notebook.
 
-eng-vietnamese.html : HTML version of the Jupyter Notebook for easily viewing the code.
-
 Sample Translations : 
 
 Hello, my name is John. chào chào , John là tôi . <br />
